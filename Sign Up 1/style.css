@@ -5,112 +5,6 @@ body{
     background-image: linear-gradient(15deg, #13547a 0%, #80d0c7 100%);
 }
 
-.Sign-Up{
-    position: absolute;
-    top: 50%;
-    left: 50%;
-    transform: translate(-50%,-50%);
-    width: 250px;
-    height: 250px;
-    margin: auto;
-    border: 1px solid #68b4be;
-    border-radius: 20px;
-    transition: 0.5s ease;
-    padding: 210px;
-}
-
-.login:hover{
-    box-shadow: 5px 3px 50px #0394A6;
-}
-
-
-
-h2{
-    font-size: 50px;
-    font-weight: bold;
-    letter-spacing: 2px;
-    text-align: center;
-    margin-top: -40%;
-    color: #FFFFFF;
-}
-
-.input-text{
-    position:relative;
-    margin: 1px 0;
-    
-
-    
-    
-    
-}
-
-.one {
-    position:relative;
-    margin: 70px 0;
-    margin-top: 25%;
-    margin-left: 8%;
-
-    
-
-}
-
-.input-text{
-    width: 100px;
-    padding: 10px 0;
-    box-sizing:border-box;
-    font-size: 16px;
-    border: none;
-    padding-left: 1px;
-    /*border-bottom: 20px solid #d7e2e1;*/  
-    transition: 0.5s ease;
-    
-
-    
-    
-}
-
-.input-text.input:focus{
-border-bottom: 5px solid #d5dbdf;
-border-radius: 10px;
-}
-
-.btn{
-    width: 90px;
-    height: 25px;
-    font-weight: bold;
-    font-size: 15px;
-    border-radius:10px;
-    padding: 0px;
-    background:#FFFFFF;
-    cursor: pointer;
-    transition: 0.5s ease;
-    color: #028E9E;
-    text-align:center;
-    margin-top: 10px;
-    border-color: #f0f0f0;
-    margin-top: 50%;
-    margin-left: 40%;
-
-
-}
-
-
-
-.remember{
-    margin-top: 30px;
-    color: #e4ebeb;
-    padding-left: 1px;
-    
-    
-}
-.a{
-    float:right ;
-}
-
-
-
-
- 
 body {
 	margin: 0;
 	padding: 0;
@@ -186,21 +80,125 @@ nav > ul > li:hover > a {
 }
 
 
+
+.Sign_up{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    width: 250px;
+    height: 250px;
+    margin: auto;
+    border: 1px solid #68b4be;
+    border-radius: 20px;
+    transition: 0.5s ease;
+    padding: 210px;
+}
+
+.login:hover{
+    box-shadow: 5px 3px 50px #0394A6;
+}
+
+
+
+h2{
+    font-size: 50px;
+    font-weight: bold;
+    letter-spacing: 2px;
+    text-align: center;
+    margin-top: -40%;
+    color: #FFFFFF;
+}
+
+.input-text{
+    position:relative;
+    margin: 1px 0;
+   
+    
+}
+
+.one {
+    position:relative;
+    margin: 70px 0;
+    margin-top: 25%;
+    margin-left: 8%;
+
+    
+
+}
+
+.input-text{
+    width: 100px;
+    padding: 10px 0;
+    box-sizing:border-box;
+    font-size: 16px;
+    border: none;
+    padding-left: 1px;
+    /*border-bottom: 20px solid #d7e2e1;*/  
+    transition: 0.5s ease;
+    
+
+    
+    
+}
+
+.input-text.input:focus{
+border-bottom: 5px solid #d5dbdf;
+border-radius: 10px;
+}
+
+.btn{
+    width: 90px;
+    height: 25px;
+    font-weight: bold;
+    font-size: 15px;
+    border-radius:10px;
+    padding: 0px;
+    background:#FFFFFF;
+    cursor: pointer;
+    transition: 0.5s ease;
+    color: #028E9E;
+    text-align:center;
+    margin-top: 10px;
+    border-color: #f0f0f0;
+    margin-top: 50%;
+    margin-left: 40%;
+
+
+}
+
+
+
+.remember{
+    
+    margin-top: 1px;
+    color: #e4ebeb;
+    padding-right: 1px;
+    
+    
+}
+.a{
+    float:right ;
+}
+
+
+
+
 .Icons{
-color: #FFFFFF;
-transition: color 0.2;
+
+
 margin-top: 50px;
 margin-left: 60%;
-
-
 color: #FFFFFF;
 width: 85px;
 border-radius:10px;
-cursor: pointer;
-transition: color 0.2;
-margin-top: 155%;
-margin-left: 47%;
+margin-top: 130%;
+margin-left: 50%;
 
 
 
 }
+
+
+
+
